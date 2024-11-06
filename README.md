@@ -51,10 +51,11 @@ Power BI was used for the following
 - Total employee number -1470, Current number of employee 1233,
 - Attrition count which is 273, Average Age 37 and Attriton rate 16%
 - Pie  and Donut charts were used to identify patterns and relationships
--  Attriton by Gender shown that more men -150 left the organisation while are 87.
+1.  Attriton by Gender: shown that more men -150 left the organisation while are 87.
 - 27% of these men are single, 13% married and 11% are Divorced
 - For the Females 24% are single
-- Pie chart eas use for insightes into Attrition and Department .
+2.  Attrition by Department .
+-  Pie chart eas use for insightes into
 - The deparments are Human Resources, Life science, Marketing, Medical, Technical Degrees and others
 - Human Resources department top the attrition count with a total count of 89 which represent 26%, 7 out of 27 of them left the organization
 - Technical Degrees has 24% of attrition rate, Life science  the least is Medical with a percentage of 14%
