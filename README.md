@@ -46,6 +46,10 @@ Power BI was used for the following
 
 
 ### Explaratory Data Analysis
+Table Used for Analysis
+
+![Screenshot 2024-11-07 004238](https://github.com/user-attachments/assets/305f048d-34e5-496b-ad1b-8f367d20725e)
+
 - Power BI was used for the exploratory data analysis.
 - Card was used to visualize the
 - Total employee number -1470, Current number of employee 1233,
@@ -81,7 +85,13 @@ Power BI was used for the following
   - third is Under 25 with a count of 38
   - and least is Above 55 with a count of 11
 
-7. Attrition by Job Roles
+7. Attrition by Job Satisfaction and Job Roles 
+   The analysis showwn there was attrition in all the job roles and Dissatisfaction in all except Research Director
+ - Laboratoty Technicians has the highest count of attrition and Dissatifaction with a total 62(26%)  and 20 (32%0 respectively
+ - Follwed by Sales Executives with count of 57 (24%) and 16 (28%) 
+ - Third is Research Scientists with count of 47 (20%) and 13 (28%)
+ - Fouth by Sales Representative with count of 33 (14%) and 7(21%)
+ - The least was among the Reseach Directors (0.8%), none dissatisfied, Manufacturing Directors(4%) and 1 out of 5 dissatisfied.
 
 8. Attrition by Job Satisfaction and Eductional Fields
  - 66 (28%) employee of the personnel that left the organisation are Very Dissatisfied
@@ -103,10 +113,6 @@ Power BI was used for the following
 
 
 ![Screenshot 2024-11-06 084739](https://github.com/user-attachments/assets/69db589b-c86c-45e7-a5cb-79b657999153)
-
-
-
-
 
 
 
@@ -143,3 +149,9 @@ Recommendations
     - Clear communication and feedback
     - Introduce recognition and reward programs
 - The company should improve on the quality of care, working and environmental condition for personnel inoder to reduce attrition rate
+  - There should be quarterly established feedback from employee
+ 
+  - ### Conclusion
+  - The compoany should address high rate of attrition.
+  - Consider Age and marrital status when employing personnel.
+  - Improve personnel welfare
